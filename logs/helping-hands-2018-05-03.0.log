@@ -1,0 +1,53 @@
+02:12:04.111 [main] INFO  org.eclipse.jetty.util.log - Logging initialized @5607ms to org.eclipse.jetty.util.log.Slf4jLog
+02:12:56.451 [main] INFO  org.eclipse.jetty.util.log - Logging initialized @5642ms to org.eclipse.jetty.util.log.Slf4jLog
+02:12:56.657 [main] INFO  org.eclipse.jetty.server.Server - jetty-9.4.0.v20161208
+02:12:56.693 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@573e38c{/,null,AVAILABLE}
+02:12:56.741 [main] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@1377e395{HTTP/1.1,[http/1.1, h2c]}{0.0.0.0:8080}
+02:12:56.742 [main] INFO  org.eclipse.jetty.server.Server - Started @5935ms
+02:13:58.973 [qtp1619490345-17] INFO  io.pedestal.http - {:msg "GET /", :line 80}
+02:16:14.227 [main] INFO  org.eclipse.jetty.util.log - Logging initialized @5706ms to org.eclipse.jetty.util.log.Slf4jLog
+02:16:14.405 [main] INFO  org.eclipse.jetty.server.Server - jetty-9.4.0.v20161208
+02:16:14.435 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@573e38c{/,null,AVAILABLE}
+02:16:14.468 [main] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@4c66aaa1{HTTP/1.1,[http/1.1, h2c]}{0.0.0.0:8080}
+02:16:14.468 [main] INFO  org.eclipse.jetty.server.Server - Started @5949ms
+02:16:28.901 [qtp1619490345-18] INFO  io.pedestal.http - {:msg "GET /", :line 80}
+02:19:12.767 [main] INFO  org.eclipse.jetty.util.log - Logging initialized @5839ms to org.eclipse.jetty.util.log.Slf4jLog
+02:19:12.948 [main] INFO  org.eclipse.jetty.server.Server - jetty-9.4.0.v20161208
+02:19:12.974 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@2bf5f4{/,null,AVAILABLE}
+02:19:13.009 [main] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@8dba70a{HTTP/1.1,[http/1.1, h2c]}{0.0.0.0:8080}
+02:19:13.010 [main] INFO  org.eclipse.jetty.server.Server - Started @6083ms
+02:19:20.043 [qtp221458108-18] INFO  io.pedestal.http - {:msg "GET /", :line 80}
+02:20:37.851 [main] INFO  org.eclipse.jetty.util.log - Logging initialized @5581ms to org.eclipse.jetty.util.log.Slf4jLog
+02:20:38.036 [main] INFO  org.eclipse.jetty.server.Server - jetty-9.4.0.v20161208
+02:20:38.059 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@5d5822bc{/,null,AVAILABLE}
+02:20:38.095 [main] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@6297c34c{HTTP/1.1,[http/1.1, h2c]}{0.0.0.0:8080}
+02:20:38.096 [main] INFO  org.eclipse.jetty.server.Server - Started @5828ms
+02:21:04.645 [qtp1228332201-18] INFO  io.pedestal.http - {:msg "GET /", :line 80}
+02:21:23.480 [qtp1228332201-18] INFO  io.pedestal.http - {:msg "GET /", :line 80}
+02:38:18.305 [main] INFO  org.eclipse.jetty.util.log - Logging initialized @5440ms to org.eclipse.jetty.util.log.Slf4jLog
+02:38:18.470 [main] INFO  org.eclipse.jetty.server.Server - jetty-9.4.0.v20161208
+02:38:18.494 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@2395c168{/,null,AVAILABLE}
+02:38:18.527 [main] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@7b900883{HTTP/1.1,[http/1.1, h2c]}{0.0.0.0:8080}
+02:38:18.528 [main] INFO  org.eclipse.jetty.server.Server - Started @5664ms
+02:38:35.338 [qtp2115607788-18] INFO  io.pedestal.http - {:msg "POST /", :line 80}
+02:39:32.048 [qtp2115607788-18] INFO  io.pedestal.http - {:msg "POST /", :line 80}
+02:40:12.052 [main] INFO  org.eclipse.jetty.util.log - Logging initialized @6061ms to org.eclipse.jetty.util.log.Slf4jLog
+02:40:12.231 [main] INFO  org.eclipse.jetty.server.Server - jetty-9.4.0.v20161208
+02:40:12.254 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@7e47a922{/,null,AVAILABLE}
+02:40:12.286 [main] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@37dcda42{HTTP/1.1,[http/1.1, h2c]}{0.0.0.0:8080}
+02:40:12.287 [main] INFO  org.eclipse.jetty.server.Server - Started @6297ms
+02:40:20.024 [qtp1688072194-18] INFO  io.pedestal.http - {:msg "POST /", :line 80}
+02:40:33.021 [qtp1688072194-18] INFO  io.pedestal.http - {:msg "POST /", :line 80}
+02:40:43.161 [qtp1688072194-19] INFO  io.pedestal.http - {:msg "POST /", :line 80}
+02:41:13.551 [main] INFO  org.eclipse.jetty.util.log - Logging initialized @5653ms to org.eclipse.jetty.util.log.Slf4jLog
+02:41:13.731 [main] INFO  org.eclipse.jetty.server.Server - jetty-9.4.0.v20161208
+02:41:13.755 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@28322fd3{/,null,AVAILABLE}
+02:41:13.788 [main] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@68a320b{HTTP/1.1,[http/1.1, h2c]}{0.0.0.0:8080}
+02:41:13.790 [main] INFO  org.eclipse.jetty.server.Server - Started @5893ms
+02:41:21.045 [qtp1570135485-18] INFO  io.pedestal.http - {:msg "POST /", :line 80}
+02:42:00.638 [main] INFO  org.eclipse.jetty.util.log - Logging initialized @5545ms to org.eclipse.jetty.util.log.Slf4jLog
+02:42:00.820 [main] INFO  org.eclipse.jetty.server.Server - jetty-9.4.0.v20161208
+02:42:00.845 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@5a618847{/,null,AVAILABLE}
+02:42:00.883 [main] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@50cdaf32{HTTP/1.1,[http/1.1, h2c]}{0.0.0.0:8080}
+02:42:00.883 [main] INFO  org.eclipse.jetty.server.Server - Started @5792ms
+02:42:03.232 [qtp735202313-18] INFO  io.pedestal.http - {:msg "POST /", :line 80}
